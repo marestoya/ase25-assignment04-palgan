@@ -12,5 +12,5 @@ The platform is designed to be easy and intuitive to use, with clear prompts and
 
 1. Python 3 needs to be installed
 2. Clone this repository to your local device.
-3. Open this repo in your terminal and run the browse_meals.py file.
+3. Open this repo in your terminal, navigate to the source folder and run the browse_meals.py file (command: "python browse_meals.py")
 4. Follow the text instructions given by the file on the terminal
